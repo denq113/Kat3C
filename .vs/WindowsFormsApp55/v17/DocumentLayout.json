@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\windowsformsapp55\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|solutionrelative:windowsformsapp55\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\windowsformsapp55\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|solutionrelative:windowsformsapp55\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|c:\\users\\denjl\\source\\repos\\windowsformsapp55\\windowsformsapp55\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|solutionrelative:windowsformsapp55\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\windowsformsapp55\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0D87CE-10A1-4804-B2D4-C7D4AA1A45CA}|WindowsFormsApp55\\WindowsFormsApp55.csproj|solutionrelative:windowsformsapp55\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp55\\Form1.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsApp55\\Form1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwFcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:34:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Figura.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp55\\Figura.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Figura.cs",
+              "RelativeToolTip": "WindowsFormsApp55\\Figura.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA6wB4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:18:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form2.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp55\\Form2.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp55\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:10:38.309Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp55\\Form1.cs",
+              "ToolTip": "C:\\Users\\denjl\\source\\repos\\WindowsFormsApp55\\WindowsFormsApp55\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "WindowsFormsApp55\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T07:07:20.304Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1243,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

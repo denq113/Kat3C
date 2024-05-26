@@ -1,0 +1,11 @@
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\bin\Debug\WindowsFormsApp55.exe.config
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\bin\Debug\WindowsFormsApp55.exe
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\bin\Debug\WindowsFormsApp55.pdb
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.csproj.AssemblyReference.cache
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.Form1.resources
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.Form2.resources
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.Properties.Resources.resources
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.csproj.GenerateResource.cache
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.csproj.CoreCompileInputs.cache
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.exe
+C:\Users\denjl\source\repos\WindowsFormsApp55\WindowsFormsApp55\obj\Debug\WindowsFormsApp55.pdb
